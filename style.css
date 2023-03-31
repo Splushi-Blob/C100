@@ -1,0 +1,41 @@
+.footer{
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+ }
+.body{
+    background-color: antiquewhite;
+}
+.title{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+.h4{
+font-family: cursive;
+font-weight: bold;
+}
+#camera{
+    width: 500px;
+    height: 400px;
+    border-color: red;
+    border-width: thick 10px;
+}
+#result1{
+    box-shadow: black;
+    
+}
+#result2{
+    box-shadow: black;
+}
+#result3{
+    box-shadow: black;
+}
+#result1:hover{
+    width: 19%;
+}
+#result2:hover{
+    width: 19%;
+}
+#result3:hover{
+    width: 19%;
+}
